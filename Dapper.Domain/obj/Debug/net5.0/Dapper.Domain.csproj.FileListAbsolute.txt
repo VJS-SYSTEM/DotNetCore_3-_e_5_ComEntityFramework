@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.deps.json
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\bin\Debug\net5.0\ref\Dapper.Domain.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\bin\Debug\net5.0\Dapper.Domain.pdb
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csprojAssemblyReference.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.AssemblyInfo.cs
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\ref\Dapper.Domain.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Domain\obj\Debug\net5.0\Dapper.Domain.pdb

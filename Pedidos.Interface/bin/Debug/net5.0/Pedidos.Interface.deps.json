@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pedidos.Interface/1.0.0": {
+        "dependencies": {
+          "Pedidos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pedidos.Interface.dll": {}
+        }
+      },
+      "Pedidos.Domain/1.0.0": {
+        "runtime": {
+          "Pedidos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedidos.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pedidos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

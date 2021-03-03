@@ -1,0 +1,12 @@
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\bin\Debug\net5.0\Dapper.Repository.deps.json
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\bin\Debug\net5.0\Dapper.Repository.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\bin\Debug\net5.0\ref\Dapper.Repository.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\bin\Debug\net5.0\Dapper.Repository.pdb
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.csprojAssemblyReference.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.AssemblyInfo.cs
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\ref\Dapper.Repository.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Dapper.Repository\obj\Debug\net5.0\Dapper.Repository.pdb

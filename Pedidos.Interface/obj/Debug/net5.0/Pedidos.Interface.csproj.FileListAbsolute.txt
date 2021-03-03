@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\bin\Debug\net5.0\Pedidos.Interface.deps.json
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\bin\Debug\net5.0\Pedidos.Interface.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\bin\Debug\net5.0\ref\Pedidos.Interface.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\bin\Debug\net5.0\Pedidos.Interface.pdb
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\bin\Debug\net5.0\Pedidos.Domain.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\bin\Debug\net5.0\Pedidos.Domain.pdb
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.csprojAssemblyReference.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.AssemblyInfo.cs
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.csproj.CopyComplete
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\ref\Pedidos.Interface.dll
+D:\Desenvolvimento\Projetos\Pedidos\Solution_Pedidos\Pedidos.Interface\obj\Debug\net5.0\Pedidos.Interface.pdb
